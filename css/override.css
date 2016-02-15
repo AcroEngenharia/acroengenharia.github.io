@@ -1,0 +1,48 @@
+.btn-xl {
+  background-color: #5bb498;
+  border-color: #5bb498;
+}
+.btn-xl:hover {
+  background-color: #52a48b;
+  border-color: #52a48b;
+}
+
+.section-subheading {
+  line-height: 25px;
+}
+
+.navbar-default.navbar-shrink {
+  background-color: rgb(81, 191, 157);
+}
+
+.navbar-default .navbar-nav>.active>a {
+  /*background-color: rgb(81, 191, 157);*/
+  background-color: rgba(1, 144, 98, 0.32);
+}
+
+.navbar-brand {
+  padding: 0px;
+}
+
+header .intro-text .intro-lead-in {
+  font-size: 25px;
+}
+
+@media (min-width: 768px) {
+  header .intro-text {
+      padding-top: 180px;
+      padding-bottom: 80px;
+  }
+}
+
+.acro-icon {
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  top: 30px;
+  left: 32px;
+}
+
+.text-primary {
+  color: rgb(81, 191, 157);
+}

@@ -13,6 +13,8 @@ $(function() {
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
+    
+    window.scrollTo(0, 0);
 });
 
 // Highlight the top nav as scrolling occurs
