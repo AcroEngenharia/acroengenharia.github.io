@@ -79,3 +79,7 @@ header {
       padding: 90px 0;
   }
 }
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+  background: #2CAF86;
+}
