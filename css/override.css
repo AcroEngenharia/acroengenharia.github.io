@@ -83,3 +83,10 @@ header {
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
   background: #2CAF86;
 }
+
+.timeline .img-responsive {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
