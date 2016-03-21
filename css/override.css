@@ -78,6 +78,10 @@ header {
   section {
       padding: 90px 0;
   }
+  
+  .timeline-body ul {
+    margin-left: 120px;
+  }
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
